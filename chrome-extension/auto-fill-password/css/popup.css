@@ -1,0 +1,19 @@
+*{margin:0;padding:0;}
+img{margin:0 4px;}
+#addItemDiv{color:#ccc;}
+.hide{display:none;}
+.show{display:block;}
+.taskItem{cursor:pointer; width:100px;}
+input{width:100%;}
+.btn-blue{display: block;background-color: #4395FF;cursor: pointer;border: none;height: 32px;width: 138px;margin: 10px auto;border-radius: 3px;color: white;outline: none;line-height: 30px;
+    text-align: center; text-decoration: none;}
+.btn-blue:hover{
+            background-color: #54A0FF;
+}
+.row{
+    position: relative;
+    padding: 12px 12px 40px 12px;
+    margin: 0 auto;
+    border: 1px solid #dedede;
+    box-sizing: border-box;
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/chrome-extension/auto-fill-password/get.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chrome-extension/auto-fill-password/index.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chrome-extension/auto-fill-password/option.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chrome-extension/auto-fill-password/popup.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chrome-extension/auto-fill-password/save.html" charset="GBK" />
+  </component>
+</project>
